@@ -1,1 +1,5 @@
 .vscode/
+Depedencies/PGN/lib/
+*.o
+*.exe
+*.a
